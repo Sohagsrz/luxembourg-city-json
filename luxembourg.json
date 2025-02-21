@@ -1,118 +1,196 @@
- {
-      "Luxembourg City": [
-        "Belair",
-        "Bonnevoie",
-        "Cents",
-        "Clausen",
-        "Cessange",
-        "Dommeldange",
-        "Eich",
-        "Gasperich",
-        "Grund",
-        "Hamm",
-        "Hollerich",
-        "Kirchberg",
-        "Limpertsberg",
-        "Merl",
-        "Mühlenbach",
-        "Neudorf-Weimershof",
-        "Pfaffenthal",
-        "Rollingergrund",
-        "Weimerskirch"
-      ],
-      "Esch-sur-Alzette": [
-        "Esch-sur-Alzette",
-        "Belval",
-        "Lallange",
-        "Schifflange"
-      ],
-      "Differdange": [
-        "Differdange",
-        "Oberkorn",
-        "Niederkorn"
-      ],
-      "Dudelange": [
-        "Dudelange",
-        "Budersberg",
-        "Brill"
-      ],
-      "Ettelbruck": [
-        "Ettelbruck",
-        "Warken",
-        "Grentzingen"
-      ],
-      "Diekirch": [
-        "Diekirch",
-        "Ingeldorf",
-        "Erpeldange"
-      ],
-      "Wiltz": [
-        "Wiltz",
-        "Eschweiler",
-        "Winseler"
-      ],
-      "Echternach": [
-        "Echternach",
-        "Berdorf",
-        "Consdorf"
-      ],
-      "Grevenmacher": [
-        "Grevenmacher",
-        "Wasserbillig",
-        "Mertert"
-      ],
-      "Remich": [
-        "Remich",
-        "Wintrange",
-        "Schengen"
-      ],
-      "Mersch": [
-        "Mersch",
-        "Rollingen",
-        "Bissen"
-      ],
-      "Capellen": [
-        "Capellen",
-        "Mamer",
-        "Kehlen"
-      ],
-      "Clervaux": [
-        "Clervaux",
-        "Munshausen",
-        "Heinerscheid"
-      ],
-      "Redange": [
-        "Redange",
-        "Beckerich",
-        "Ell"
-      ],
-      "Vianden": [
-        "Vianden",
-        "Bivels",
-        "Stolzembourg"
-      ],
-      "Bettembourg": [
-        "Bettembourg",
-        "Abweiler",
-        "Fennange"
-      ],
-      "Schifflange": [
-        "Schifflange",
-        "Foetz",
-        "Bivange"
-      ],
-      "Walferdange": [
-        "Walferdange",
-        "Helmsange",
-        "Bereldange"
-      ],
-      "Steinfort": [
-        "Steinfort",
-        "Kleinbettingen",
-        "Hagen"
-      ],
-      "Mondorf-les-Bains": [
-        "Mondorf-les-Bains",
-        "Altwies"
-      ]
-    }
+{
+  "Luxembourg": [
+    "Belair",
+    "Bonnevoie",
+    "Cents",
+    "Clausen",
+    "Cessange",
+    "Dommeldange",
+    "Eich",
+    "Gasperich",
+    "Grund",
+    "Hamm",
+    "Hollerich",
+    "Kirchberg",
+    "Limpertsberg",
+    "Merl",
+    "Mühlenbach",
+    "Neudorf-Weimershof",
+    "Pfaffenthal",
+    "Rollingergrund",
+    "Weimerskirch"
+  ],
+  "Rambrouch": [
+    "Arsdorf",
+    "Koetschette",
+    "Bigonville",
+    
+    "Perlé",
+    "Holtz",
+    "Fingig",
+    "Hostert"
+  ],"Sanem": [
+    "Sanem",
+    "Belvaux",
+    "Ehlerange",
+    "Soleuvre"
+  ],
+  "Esch-sur-Sûre": [
+    "Eschdorf",
+    "Merscheid",
+    "Heiderscheid",
+    "Lultzhausen",
+    "Baschleiden",
+    "Liefrange",
+    "Ringel",
+    "Neunhausen"
+  ],
+  "Lac de la Haute-Sûre": [
+    "Harlange",
+    "Tarchamps",
+    "Mecher",
+    "Nothum"
+  ],
+  "Fischbach": [
+    "Angelsberg",
+    "Schoos",
+    "Fischbach"
+  ],
+  "Esch-sur-Alzette": [
+    "Esch-sur-Alzette",
+    "Belval",
+    "Lallange",
+    "Schifflange"
+  ],
+  "Differdange": [
+    "Differdange",
+    "Oberkorn",
+    "Niederkorn"
+  ],
+  "Dudelange": [
+    "Dudelange",
+    "Budersberg",
+    "Brill"
+  ],
+  "Ettelbruck": [
+    "Ettelbruck",
+    "Warken",
+    "Grentzingen"
+  ],
+  "Diekirch": [
+    "Diekirch",
+    "Ingeldorf",
+    "Erpeldange"
+  ],
+  "Wiltz": [
+    "Wiltz",
+    "Eschweiler",
+    "Winseler"
+  ],
+  "Echternach": [
+    "Echternach",
+    "Berdorf",
+    "Consdorf"
+  ],
+  "Grevenmacher": [
+    "Grevenmacher",
+    "Wasserbillig",
+    "Mertert"
+  ],
+  "Remich": [
+    "Remich",
+    "Wintrange",
+    "Schengen"
+  ],
+  "Mersch": [
+    "Mersch",
+    "Rollingen",
+    "Bissen"
+  ],
+  "Capellen": [
+    "Capellen",
+    "Mamer",
+    "Kehlen"
+  ],
+  "Kehlen": [
+    "Dondelange",
+    "Nospelt",
+    "Olm",
+    "Kehlen",
+    "Keispelt",
+    "Meispelt"
+  ],
+  "Steinsel": [
+    "Heisdorf",
+    "Mullendorf",
+    "Steinsel"
+  ],
+  "Mondorf-les-Bains": [
+    "Mondorf-les-Bains",
+    "Altwies"
+  ],
+  "Larochette": [
+    "Angelsberg",
+    "Meysembourg",
+    "Nommern"
+  ],
+  "Tandel": [
+    "Bettel",
+    "Fouhren",
+    "Longsdorf",
+    "Walsdorf",
+    "Vianden"
+  ],
+  "Grosbous": [
+    "Dellen"
+  ],
+  "Clervaux": [
+    "Clervaux",
+    "Munshausen",
+    "Heinerscheid"
+  ],
+  "Redange": [
+    "Redange",
+    "Beckerich",
+    "Ell"
+  ],
+  "Vianden": [
+    "Vianden",
+    "Bivels",
+    "Stolzembourg"
+  ],
+  "Bettembourg": [
+    "Bettembourg",
+    "Abweiler",
+    "Fennange"
+  ],
+  "Schifflange": [
+    "Schifflange",
+    "Foetz",
+    "Bivange"
+  ],
+  "Walferdange": [
+    "Walferdange",
+    "Helmsange",
+    "Bereldange"
+  ],
+  "Steinfort": [
+    "Steinfort",
+    "Kleinbettingen",
+    "Hagen"
+  ],
+  "Useldange": [
+    "Everlange",
+    "Schandel",
+    "Rippweiler"
+  ],
+  "Hobscheid": [
+    "Eischen",
+    "Greisch",
+    "Septfontaines"
+  ],
+  "Koerich": [
+    "Goeblange",
+    "Windhof"
+  ]
+}
